@@ -1,7 +1,7 @@
 # How to create a Chrome extension with Bubble
 
 # Step 1: Download and unzip the files
-[extension.zip](https://github.com/hugonalfe/chorme_extension/files/8241336/extension.zip)
+[extension.zip](https://github.com/hugonalfe/chorme_extension/files/8241371/extension.zip)
 
 # Step 2: Add URL and customize the popup size
 
