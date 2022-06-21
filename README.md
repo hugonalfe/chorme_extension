@@ -24,3 +24,6 @@ You can also edit the `name` and `description`.
 Your extension is ready. You can load your unpacked extension to test ([https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked)) or upload it to the Chrome Web Store ([https://developer.chrome.com/docs/webstore/publish/](https://developer.chrome.com/docs/webstore/publish/)).
 
 It usually takes 1-2 days for the extension to be approved.
+
+Additional features
+Injected: [extension_injected.zip](https://github.com/hugonalfe/chorme_extension/files/8947207/extension_injected.zip)
